@@ -21,7 +21,7 @@ tensorflow|2.2.0rc2 ;
 keras|2.3.1
 
 ### File "Input_ANN.txt":
-Input file to define all the model parameters. Make modifications only after "[" symbol.
+Input file to define all the model parameters. Make modifications only after "[" symbol and don't use spaces while modifying parameters. Refer to original file for reference.
 
 "project_name" - A directory with this name will be created. All results will be stored here.
 
