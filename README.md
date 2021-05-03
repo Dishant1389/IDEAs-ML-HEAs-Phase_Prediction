@@ -50,3 +50,9 @@ Input file to define all the model parameters. Make modifications only after "["
 "check_after_iterations" - No. of iterations after which threshold accuracy will be checked.
 
 
+### File "f_extract_input_data.py":
+Contains "f_extract_input" function that is used in main script "run_ANN_phase_prediction.py" for extracting parameters defined in "Input_ANN.txt" file.
+
+
+### File "f_ANN.py":
+Contains "f_ANN_model" function that is used in main script "run_ANN_phase_prediction.py" for creating the neural network model using parameters extracted from "Input_ANN.txt" file.
