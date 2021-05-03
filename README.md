@@ -12,12 +12,12 @@ Database file - 323 HEAs with their phase information and normalized feature val
 ### File "run_ANN_phase_prediction.py":
 Creates ANN model using parameters defined in "Input_ANN.txt" file. A new directory is created to store trained models and training/validation results.
 
-Requirements|recommended versions
-Python|3.8.1
-pandas|1.0.3
-numpy|1.18.2
-scikit-learn|0.22.2
-tensorflow|2.2.0rc2
+Requirements|recommended versions: 
+Python|3.8.1 ; 
+pandas|1.0.3 ; 
+numpy|1.18.2 ; 
+scikit-learn|0.22.2 ; 
+tensorflow|2.2.0rc2 ; 
 keras|2.3.1
 
 ### File "Input_ANN.txt":
