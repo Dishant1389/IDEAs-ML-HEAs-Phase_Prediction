@@ -1,5 +1,5 @@
 # IDEAs-ML-HEAs-Phase_Prediction
-Database and code for reproducing work titled "Learning phase selection and assemblages in High-Entropy Alloys through a stochastic ensemble-averaging model" - Not published yet
+Database and code for article "Learning phase selection and assemblages in High-Entropy Alloys through a stochastic ensemble-averaging model" - Not published yet
 
 Authors: Dishant Beniwal, Pratik K. Ray
 
