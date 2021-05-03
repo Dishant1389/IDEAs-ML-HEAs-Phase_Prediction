@@ -5,7 +5,8 @@ Authors: Dishant Beniwal, Pratik K. Ray
 
 Contents:
 
-## File "db_HEAs.csv": Database file - 323 HEAs with their phase information and normalized feature values.
+### File "db_HEAs.csv":
+Database file - 323 HEAs with their phase information and normalized feature values.
 
 
-## File "Input_ANN.txt":
+### File "Input_ANN.txt":
