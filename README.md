@@ -2,6 +2,7 @@
 Accompanying dataset and code for article "Learning phase selection and assemblages in High-Entropy Alloys through a stochastic ensemble-averaging model" - Accepted for publication in 'Computational Materials Science'
 
 Authors: Dishant Beniwal, Pratik K. Ray
+
 Affiliation: https://ideaslab.iitrpr.ac.in/
 
 ## Contents
